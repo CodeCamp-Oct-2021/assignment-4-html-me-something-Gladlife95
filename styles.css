@@ -1,1 +1,35 @@
-/* Write your CSS here! */
+.header{border: 1px solid black;
+    display: flex;
+    justify-content: space-between;
+    width: 500px;
+    align-items: center;
+    padding: 5px;
+    margin-bottom: 20px;
+    border-radius: 6px;
+}
+body{
+    text-align: center;
+    margin: 8px;
+    background-color: lightslategray;
+}
+
+#mainHeading{
+    color:red
+}
+
+.captions{
+    font-size: small;
+    font-style: oblique;
+    display: block;
+}
+footer{
+    margin-top: 25px;
+    border: 1px solid black;
+}
+
+#closingStatement{
+    font-size: small;
+}
+.funParagraph{
+    color: green
+}
