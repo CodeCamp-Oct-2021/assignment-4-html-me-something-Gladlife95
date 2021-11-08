@@ -13,6 +13,9 @@ body{
     background-color: lightslategray;
 }
 
+#mainHeading{
+    color:red
+}
 
 .captions{
     font-size: small;
@@ -27,6 +30,6 @@ footer{
 #closingStatement{
     font-size: small;
 }
-#funParagraph{
+.funParagraph{
     color: green
 }
